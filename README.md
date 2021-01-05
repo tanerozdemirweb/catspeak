@@ -1,2 +1,2 @@
 # catspeak
-An animal ethology and language translation application for humans. 
+An ethology and language translation application for humans. 
